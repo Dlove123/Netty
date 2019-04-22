@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: Administrator
+Class-Path: lib/netty-all-4.0.29.Final.jar lib/commons-lang3-3.7.jar
+Build-Jdk: 1.8.0_31
+Created-By: Maven Integration for Eclipse
+Main-Class: com.netty.Main
+
